@@ -9,4 +9,4 @@ repository = "https://github.com/tsoj/zed-cpp2"
 
 [grammars.cpp2]
 repository = "https://github.com/tsoj/tree-sitter-cpp2"
-commit = "60a93f3cdd0802d4c0b7c475798b41e9cfe7e704"
+commit = "a4c9b54eb2b53a9aeaf04f45b8268a079fae3e1a"
