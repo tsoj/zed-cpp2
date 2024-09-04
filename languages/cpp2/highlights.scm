@@ -268,7 +268,7 @@
 "{" @punctuation.bracket
 "}" @punctuation.bracket
 
-(cpp2_primitive_type) @type
+(cpp2_primitive_type) @keyword
 
 (cpp2_number_literal) @number
 
